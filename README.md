@@ -7,13 +7,13 @@ Depuis 2–3 mois, je me forme activement au développement web, en créant mes 
 
 ---
 
-## 🌐 Mon site portfolio
+## Mon site portfolio
 
 Vous pouvez visiter mon site ici : [Portfolio](https://kinni2468-create.github.io/portfolio/)
 
 ---
 
-## 💻 Mes projets
+## Mes projets
 
 - Générateur de citations — Génère des citations aléatoires en JavaScript.  
 - Jeu "Devinez le nombre" — Devinez un nombre aléatoire de 1 à 100 et testez votre intuition.  
@@ -23,7 +23,7 @@ Tous les projets sont disponibles directement sur mon site et sont interactifs.
 
 ---
 
-## 🛠 Compétences
+## Compétences
 
 - HTML / CSS (niveau débutant)  
 - JavaScript (niveau débutant)  
@@ -31,12 +31,12 @@ Tous les projets sont disponibles directement sur mon site et sont interactifs.
 
 ---
 
-## 🎯 Motivation
+## Motivation
 
 Je souhaite continuer à apprendre le développement web et travailler sur des projets réels afin de transformer ma passion pour l’informatique en carrière professionnelle.  
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email : anokhinaekaterina34@gmail.com
